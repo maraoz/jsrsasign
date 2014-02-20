@@ -43,5 +43,6 @@
   "bugs": {
     "url": "https://github.com/kjur/jsrsasign/issues"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }
